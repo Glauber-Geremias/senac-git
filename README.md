@@ -35,3 +35,4 @@ src/
 ├── screens/             # 12 telas do app
 └── adapters/            # Integrações externas (TicketSports, etc.)
 ```
+# senac-git
